@@ -1,0 +1,20 @@
+{
+  "name": "instagram-data-fetcher",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "instagram-better-scrape": "^1.0.7",
+    "instagram-scraping": "^1.0.17",
+    "user-instagram": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "instagram-data-fetcher"
+  ],
+  "author": "HARDY_SLICE",
+  "license": "ISC",
+  "description": "A simple project made with npm packages used to fetch instagram data quickly"
+}
