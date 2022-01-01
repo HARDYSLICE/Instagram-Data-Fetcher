@@ -24,3 +24,8 @@ Error codes while tag scraping:
 429: Rate limit excedeed
 409: Conflict
 ```
+
+PACKAGES:
+https://www.npmjs.com/package/user-instagram
+https://www.npmjs.com/package/instagram-scraping
+https://www.npmjs.com/package/instagram-better-scrape
